@@ -1,16 +1,16 @@
 {
   "apps": {
-    "Guarantee Letter Maker": {
+    "Guarantee_Letter_Maker": {
       "status": "on",
       "message": "Guarantee Letter Maker App is currently disabled. Please try again later.",
       "allowed_versions": ["1.0.0", "1.1.0"],
     },
-    "PO Extracter Tool": {
+    "PO_Extracter_Tool": {
       "status": "off",
       "message": "PO Extracter Tool App is under maintenance.",
       "allowed_versions": ["2.0.0"],
     },
-    "Unblock Shipments Maker": {
+    "Unblock_Shipments_Maker": {
       "status": "on",
       "message": "Unblock Shipments Maker App is currently disabled.",
       "allowed_versions": ["3.4.1"],
