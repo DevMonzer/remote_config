@@ -13,7 +13,7 @@
     "Unblock_Shipments_Maker": {
       "status": "on",
       "message": "Unblock Shipments Maker App is currently disabled.",
-      "allowed_versions": ["3.4.1"]
+      "allowed_versions": ["1.0.0"]
     }
   }
 }
