@@ -1,7 +1,7 @@
 {
   "apps": {
     "Guarantee_Letter_Maker": {
-      "status": "off",
+      "status": "on",
       "message": "Guarantee Letter Maker App is currently disabled. Please try again later.",
       "allowed_versions": ["1.0.0", "1.1.0"]
     },
