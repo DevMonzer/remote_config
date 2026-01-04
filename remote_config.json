@@ -16,7 +16,7 @@
       "allowed_versions": ["1.0.0"]
     },
     "Active_Tenders_Report_Generator": {
-      "status": "off",
+      "status": "on",
       "message": "Active Tenders Report Generator App is currently under maintenance.",
       "allowed_versions": ["1.0.0"]
     }
