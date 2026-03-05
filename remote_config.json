@@ -21,7 +21,7 @@
       "allowed_versions": ["1.0.0"]
     },
     "Invoice_Copier": {
-      "status": "off",
+      "status": "on",
       "message": "The Invoice Copier app is currently under maintenance.",
       "allowed_versions": ["1.0.0"]
     }
