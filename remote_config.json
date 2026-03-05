@@ -19,6 +19,11 @@
       "status": "on",
       "message": "Active Tenders Report Generator App is currently under maintenance.",
       "allowed_versions": ["1.0.0"]
+    },
+   "Invoice_Copier": {
+    "status": "on",
+    "message": "The Invoice Copier app is currently under maintenance.",
+    "allowed_versions": ["1.0.0"]
     }
   }
 }
